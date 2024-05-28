@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(49, 16, 215);
+    text-align-last: center;
+   
+}
+
+title{
+    color: aliceblue;
+}
+
+img{
+    text-align: center;
+    border-right: none 12px;
+    height: 200px;
+}
+button{
+    color:rgb(255, 255, 255) ;
+    background-color: cornflowerblue;
+    width: 50;
+    height: 50;
+
+}
+
+h1{
+    color: aliceblue;
+    
+}
